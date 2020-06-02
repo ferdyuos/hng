@@ -42,3 +42,7 @@ branch into master branch. On initializing an empty git, automatically you are o
 
 "git branch" - to check branches in project. The one with "*" shows your present working branch
 
+
+"git remote add origin https://github.com/username/reponame.git" - remote login using HTTPS. Can also use SSH for secured login(prefered)
+
+"git push -u origin master" - to push commit to master branch remote URL
